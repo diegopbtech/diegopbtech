@@ -18,7 +18,5 @@
 <div>
   <a href="https://instagram.com/diego_araujo018" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-ara%C3%BAjo-dos-santos-459262211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/diegoaraujoPY/diegoaraujoPY/blob/output/github-contribution-grid-snake.svg)
 
 </div>
