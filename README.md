@@ -1,4 +1,4 @@
-## Bem Vindos ao meu perfil: Diego Araújo
+## Meu Nome é Diego Araújo, sou paraíbano, tenho 19 anos!
 
  <div>
   <a href="https://github.com/diegoaraujoPY">
