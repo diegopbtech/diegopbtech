@@ -1,7 +1,7 @@
 # Sejam Bem Vindos, meu nome é Diego Araújo!
 
-### 🎓 Técnico em Informática IFPB - Campus Patos-PB
-### 🎒 Engenharia da Computação UFPB - João Pessoa-PB (Em andamento)
+### 🎓💻 Técnico em Informática IFPB - Campus Patos-PB
+### 📚🖥️ Engenharia da Computação UFPB - João Pessoa-PB (Em andamento)
 
  <div>
   <a href="https://github.com/diegoaraujoPY">
