@@ -1,5 +1,8 @@
 ## Sejam Bem Vindos, meu nome é Diego Araújo!
 
+## Técnico em Informática IFPB - Campus Patos-PB
+## Engenharia da Computação UFPB - João Pessoa-PB (Em andamento)
+
  <div>
   <a href="https://github.com/diegoaraujoPY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoaraujoPY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
