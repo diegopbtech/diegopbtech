@@ -1,5 +1,5 @@
 # Sejam Bem Vindos!
-## Diego Araújo, brasileiro, 21 anos e estudante de Engenharia da Computação.
+## Diego Araújo, paraibano, 21 anos e estudante de Engenharia da Computação.
 ### 🎓💻 Técnico em Informática IFPB - Campus Patos-PB
 ### 📚🖥️ Cursando Engenharia da Computação UFPB - João Pessoa-PB
 
